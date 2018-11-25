@@ -91,7 +91,7 @@
   <channel update="i" site="tviz.tv" site_id="national-geographic" xmltv_id="National Geographic">National Geographic</channel>
   <channel update="i" site="tviz.tv" site_id="match-nash-sport" xmltv_id="МАТЧ! НАШ СПОРТ">МАТЧ! НАШ СПОРТ</channel>
   <channel update="i" site="tviz.tv" site_id="tv1000" xmltv_id="TV 1000">TV 1000</channel>
-  <channel update="i" site="vsetv.com" site_id="1020" xmltv_id="TV1000 World Kino">TV1000 World Kino</channel>
+  <channel update="i" site="tv.yandex.ru" site_id="187##1693" xmltv_id="TV 1000 World Kino">TV 1000 World Kino</channel>
   <channel update="i" site="tviz.tv" site_id="tv1000-russkoe-kino" xmltv_id="TV 1000 Русское кино">TV 1000 Русское кино</channel>
   <channel update="i" site="tviz.tv" site_id="illyuzion-" xmltv_id="Иллюзион +">Иллюзион +</channel>
   <channel update="i" site="tviz.tv" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
