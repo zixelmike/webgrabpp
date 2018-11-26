@@ -179,7 +179,8 @@
   <channel update="i" site="tviz.tv" site_id="mtv-hits-international" xmltv_id="MTV Hits International">MTV Hits International</channel>
   <channel update="i" site="tviz.tv" site_id="viasat-golf" xmltv_id="Viasat Golf">Viasat Golf</channel>
   <channel update="i" site="tviz.tv" site_id="moskva-24" xmltv_id="Москва-24">Москва-24</channel>
-  <channel update="i" site="tviz.tv" site_id="telekanal360" xmltv_id="Телеканал 360°">Телеканал 360°</channel>
+  <channel update="i" site="tviz.tv" site_id="telekanal360" xmltv_id="360 градусов">360 градусов</channel>
+  <channel update="i" site="tviz.tv" site_id="telekanal360-hd" xmltv_id="360 градусов HD">360 градусов HD</channel>
   <channel update="i" site="tviz.tv" site_id="moskva-doverie" xmltv_id="Москва. Доверие">Москва. Доверие</channel>
   <channel update="i" site="tviz.tv" site_id="78" xmltv_id="78">78</channel>
   <channel update="i" site="tviz.tv" site_id="tnt4" xmltv_id="ТНТ4">ТНТ4</channel>
