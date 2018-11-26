@@ -211,7 +211,7 @@
   <channel update="i" site="tviz.tv" site_id="vmeste-rf" xmltv_id="Вместе-РФ">Вместе-РФ</channel>
   <channel update="i" site="teleguide.info" site_id="277" xmltv_id="Ajara TV HD (Georgia)">Ajara TV HD (Georgia)</channel>
   <channel update="i" site="tviz.tv" site_id="travel-channel" xmltv_id="Travel Channel">Travel Channel</channel>
-  <channel update="i" site="tviz.tv" site_id="1hd" xmltv_id="1HD">1HD</channel>
+  <channel update="i" site="tviz.tv" site_id="1hd" xmltv_id="1 HD">1 HD</channel>
   <channel update="i" site="tviz.tv" site_id="tlc-hd" xmltv_id="TLC HD">TLC HD</channel>
   <channel update="i" site="tviz.tv" site_id="retro" xmltv_id="Ретро">Ретро</channel>
   <channel update="i" site="tviz.tv" site_id="discovery-channel-hd" xmltv_id="Discovery Channel HD">Discovery Channel HD</channel>
