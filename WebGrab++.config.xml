@@ -21,6 +21,8 @@
   --> 
   <channel update="i" site="tviz.tv" site_id="pervyj" xmltv_id="Первый канал">Первый канал</channel>
   <channel update="i" site="tviz.tv" site_id="pervyj-hd" xmltv_id="Первый канал HD">Первый канал HD</channel>
+  <channel update="i" site="vsetv.com" site_id="541" xmltv_id="Первый канал (+2)">Первый канал (+2)</channel>
+  <channel update="i" site="vsetv.com" site_id="542" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
   <channel update="i" site="tviz.tv" site_id="amc" xmltv_id="AMC">AMC</channel>
   <channel update="i" site="seevii.com" site_id="917" xmltv_id="Abu Dhabi Drama">Abu Dhabi Drama</channel>
   <channel update="i" site="tviz.tv" site_id="amedia1" xmltv_id="Amedia 1">Amedia 1</channel>
