@@ -103,7 +103,7 @@
   <channel update="i" site="tviz.tv" site_id="tv1000" xmltv_id="TV 1000">TV 1000</channel>
   <channel update="i" site="tv.yandex.ru" site_id="187##1693" xmltv_id="TV 1000 World Kino">TV 1000 World Kino</channel>
   <channel update="i" site="tviz.tv" site_id="tv1000-russkoe-kino" xmltv_id="TV 1000 Русское кино">TV 1000 Русское кино</channel>
-  <channel update="i" site="tviz.tv" site_id="illyuzion-" xmltv_id="Иллюзион +">Иллюзион +</channel>
+  <channel update="i" site="tviz.tv" site_id="illyuzion-" xmltv_id="Иллюзион+">Иллюзион+</channel>
   <channel update="i" site="tviz.tv" site_id="viasat-explore" xmltv_id="Viasat Explore">Viasat Explore</channel>
   <channel update="i" site="tviz.tv" site_id="tnt-music" xmltv_id="ТНТ MUSIC">ТНТ MUSIC</channel>
   <channel update="i" site="tviz.tv" site_id="bridge-tv" xmltv_id="Bridge TV">Bridge TV</channel>
