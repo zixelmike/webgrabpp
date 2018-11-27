@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <settings>
    
   <!-- for detailed info about the settings see http://webgrabplus.com/documentation/configuration/webgrabconfigxml -->
@@ -23,6 +23,8 @@
   <channel update="i" site="tviz.tv" site_id="pervyj-hd" xmltv_id="Первый канал HD">Первый канал HD</channel>
   <channel update="i" site="vsetv.com" site_id="541" xmltv_id="Первый канал (+2)">Первый канал (+2)</channel>
   <channel update="i" site="vsetv.com" site_id="542" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
+  <channel update="i" site="tviz.tv" site_id="pervyj" xmltv_id="Первый канал (4:3)">Первый канал (4:3)</channel>
+  <channel update="i" site="vsetv.com" site_id="314" xmltv_id="Первый канал (СНГ)">Первый канал (СНГ)</channel>
   <channel update="i" site="tviz.tv" site_id="amc" xmltv_id="AMC">AMC</channel>
   <channel update="i" site="seevii.com" site_id="917" xmltv_id="Abu Dhabi Drama">Abu Dhabi Drama</channel>
   <channel update="i" site="tviz.tv" site_id="amedia1" xmltv_id="Amedia 1">Amedia 1</channel>
@@ -65,6 +67,8 @@
   <channel update="i" site="tviz.tv" site_id="tnt" xmltv_id="ТНТ">ТНТ</channel>
   <channel update="i" site="tviz.tv" site_id="tvc" xmltv_id="ТВ Центр">ТВ Центр</channel>
   <channel update="i" site="tviz.tv" site_id="ren-tv" xmltv_id="РЕН ТВ">РЕН ТВ</channel>
+  <channel update="i" site="tviz.tv" site_id="ren-tv" xmltv_id="РЕН ТВ HD">РЕН ТВ HD</channel>
+  <channel update="i" site="vsetv.com" site_id="570" xmltv_id="РЕН ТВ (+2)">РЕН ТВ (+2)</channel>
   <channel update="i" site="tviz.tv" site_id="match" xmltv_id="МАТЧ!">МАТЧ!</channel>
   <channel update="i" site="tviz.tv" site_id="tv-3" xmltv_id="ТВ-3">ТВ-3</channel>
   <channel update="i" site="tviz.tv" site_id="5-kanal" xmltv_id="5 канал">5 канал</channel>
