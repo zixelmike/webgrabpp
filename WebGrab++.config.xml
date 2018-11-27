@@ -25,6 +25,7 @@
   <channel update="i" site="vsetv.com" site_id="542" xmltv_id="Первый канал (+4)">Первый канал (+4)</channel>
   <channel update="i" site="tviz.tv" site_id="pervyj" xmltv_id="Первый канал (4:3)">Первый канал (4:3)</channel>
   <channel update="i" site="vsetv.com" site_id="314" xmltv_id="Первый канал (СНГ)">Первый канал (СНГ)</channel>
+  <channel update="i" site="vsetv.com" site_id="1087" xmltv_id="Правда тут">Правда тут</channel>
   <channel update="i" site="tviz.tv" site_id="amc" xmltv_id="AMC">AMC</channel>
   <channel update="i" site="seevii.com" site_id="917" xmltv_id="Abu Dhabi Drama">Abu Dhabi Drama</channel>
   <channel update="i" site="tviz.tv" site_id="amedia1" xmltv_id="Amedia 1">Amedia 1</channel>
