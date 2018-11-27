@@ -135,6 +135,7 @@
   <channel update="i" site="tviz.tv" site_id="kinosvidanie" xmltv_id="Киносвидание">Киносвидание</channel>
   <channel update="i" site="tviz.tv" site_id="rodnoe-kino" xmltv_id="Родное кино">Родное кино</channel>
   <channel update="i" site="tviz.tv" site_id="kinopremiera" xmltv_id="Кинопремьера">Кинопремьера</channel>
+  <channel update="i" site="tviz.tv" site_id="t1275" xmltv_id="Кинопремьера HD">Кинопремьера HD</channel>
   <channel update="i" site="tviz.tv" site_id="nashe-novoe-kino" xmltv_id="Наше новое кино">Наше новое кино</channel>
   <channel update="i" site="tviz.tv" site_id="kxl" xmltv_id="Телеканал КХЛ">Телеканал КХЛ</channel>
   <channel update="i" site="tviz.tv" site_id="teledom" xmltv_id="Теледом">Теледом</channel>
