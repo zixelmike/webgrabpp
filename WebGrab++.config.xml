@@ -71,7 +71,10 @@
   <channel update="i" site="tviz.tv" site_id="ren-tv" xmltv_id="РЕН ТВ HD">РЕН ТВ HD</channel>
   <channel update="i" site="vsetv.com" site_id="570" xmltv_id="РЕН ТВ (+2)">РЕН ТВ (+2)</channel>
   <channel update="i" site="tviz.tv" site_id="match" xmltv_id="МАТЧ!">МАТЧ!</channel>
-  <channel update="i" site="tviz.tv" site_id="tv-3" xmltv_id="ТВ-3">ТВ-3</channel>
+  <channel update="i" site="tviz.tv" site_id="tv-3" xmltv_id="ТВ 3">ТВ 3</channel>
+  <channel update="i" site="vsetv.com" site_id="1146" xmltv_id="ТВ 3 (+4)">ТВ 3 (+4)</channel>
+  <channel update="i" site="vsetv.com" site_id="847" xmltv_id="ТВ 3 (Беларусь)">ТВ 3 (Беларусь)</channel>
+  <channel update="i" site="vsetv.com" site_id="620" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
   <channel update="i" site="tviz.tv" site_id="5-kanal" xmltv_id="5 канал">5 канал</channel>
   <channel update="i" site="tviz.tv" site_id="che" xmltv_id="Че">Че</channel>
   <channel update="i" site="tviz.tv" site_id="kultura" xmltv_id="Культура">Культура</channel>
@@ -458,8 +461,4 @@
   <channel update="i" site="tviz.tv" site_id="nashkinoroman" xmltv_id="Наш кинороман HD">Наш кинороман HD</channel>
   <channel update="i" site="tviz.tv" site_id="nashelybimoe" xmltv_id="Наше любимое кино">Наше любимое кино</channel>
   <channel update="i" site="vsetv.com" site_id="1303" xmltv_id="Супер (+2)">Супер (+2)</channel>
-  <channel update="i" site="vsetv.com" site_id="63" xmltv_id="ТВ 3">ТВ 3</channel>
-  <channel update="i" site="vsetv.com" site_id="1146" xmltv_id="ТВ 3 (+4)">ТВ 3 (+4)</channel>
-  <channel update="i" site="vsetv.com" site_id="847" xmltv_id="ТВ 3 (Беларусь)">ТВ 3 (Беларусь)</channel>
-  <channel update="i" site="vsetv.com" site_id="620" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
 </settings>
