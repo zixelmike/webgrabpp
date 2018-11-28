@@ -61,7 +61,7 @@
   <channel update="i" site="tviz.tv" site_id="tv1000-premium-hd" xmltv_id="ViP Premiere HD">ViP Premiere HD</channel>
   <channel update="i" site="tviz.tv" site_id="tv1000-megahit-hd" xmltv_id="ViP Megahit HD">ViP Megahit HD</channel>
   <channel update="i" site="tviz.tv" site_id="tv1000-comedy-hd" xmltv_id="ViP Comedy HD">ViP Comedy HD</channel>
-  <channel update="i" site="vsetv.com" site_id="1310" xmltv_id="Дорама">Дорама</channel>
+  <channel update="i" site="tviz.tv" site_id="dorama" xmltv_id="Дорама">Дорама</channel>
   <channel update="i" site="tviz.tv" site_id="ntv" xmltv_id="НТВ">НТВ</channel>
   <channel update="i" site="tviz.tv" site_id="rossiya-1" xmltv_id="Россия 1">Россия 1</channel>
   <channel update="i" site="tviz.tv" site_id="sts" xmltv_id="СТС">СТС</channel>
