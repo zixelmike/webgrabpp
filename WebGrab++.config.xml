@@ -72,7 +72,7 @@
   <channel update="i" site="vsetv.com" site_id="570" xmltv_id="РЕН ТВ (+2)">РЕН ТВ (+2)</channel>
   <channel update="i" site="tviz.tv" site_id="match" xmltv_id="МАТЧ!">МАТЧ!</channel>
   <channel update="i" site="tviz.tv" site_id="tv-3" xmltv_id="ТВ 3">ТВ 3</channel>
-  <channel update="i" site="vsetv.com" site_id="1146" xmltv_id="ТВ 3 (+4)">ТВ 3 (+4)</channel>
+  <channel offset="4" same_as="ТВ 3" xmltv_id="ТВ 3 (+4)">ТВ 3 (+4)</channel>
   <channel update="i" site="vsetv.com" site_id="847" xmltv_id="ТВ 3 (Беларусь)">ТВ 3 (Беларусь)</channel>
   <channel update="i" site="vsetv.com" site_id="620" xmltv_id="Шокирующее HD">Шокирующее HD</channel>
   <channel update="i" site="tviz.tv" site_id="5-kanal" xmltv_id="5 канал">5 канал</channel>
