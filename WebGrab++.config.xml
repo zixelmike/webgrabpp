@@ -449,7 +449,7 @@
   <channel update="i" site="tviz.tv" site_id="tvmchannel" xmltv_id="TVMChannel">TVMChannel</channel>
   <channel update="i" site="tviz.tv" site_id="ginger-hd" xmltv_id="Ginger HD">Ginger HD</channel>
   <channel update="i" site="tviz.tv" site_id="dozhd-hd" xmltv_id="Дождь HD">Дождь HD</channel>
-  <channel update="i" site="tviz.tv" site_id="krasnaya-liniya" xmltv_id="КРАСНАЯ ЛИНИЯ">КРАСНАЯ ЛИНИЯ</channel>
+  <channel update="i" site="tviz.tv" site_id="krasnaya-liniya" xmltv_id="Красная линия">Красная линия</channel>
   <channel update="i" site="tviz.tv" site_id="muzhskoe-kino" xmltv_id="Мужское кино">Мужское кино</channel>
   <channel update="i" site="teleguide.info" site_id="2398" xmltv_id="Star Cinema">Star Cinema</channel>
   <channel update="i" site="teleguide.info" site_id="2237" xmltv_id="Spike">Spike</channel>
@@ -462,4 +462,5 @@
   <channel update="i" site="tviz.tv" site_id="nashkinoroman" xmltv_id="Наш кинороман HD">Наш кинороман HD</channel>
   <channel update="i" site="tviz.tv" site_id="nashelybimoe" xmltv_id="Наше любимое кино">Наше любимое кино</channel>
   <channel update="i" site="vsetv.com" site_id="1303" xmltv_id="Супер (+2)">Супер (+2)</channel>
+  <channel update="i" site="tviz.tv" site_id="telenovella" xmltv_id="Теленовелла">Теленовелла</channel>
 </settings>
