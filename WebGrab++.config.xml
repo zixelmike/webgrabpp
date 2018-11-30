@@ -43,6 +43,7 @@
   <channel update="i" site="vsetv.com" site_id="1327" xmltv_id="Epic Drama HD">Epic Drama HD</channel>
   <channel update="i" site="vivacom.bg" site_id="3##Fox Life" xmltv_id="FOX Life TV (Bulgaria)">FOX Life TV (Bulgaria)</channel>
   <channel update="i" site="vivacom.bg" site_id="2##Fox" xmltv_id="FOX TV (Bulgaria)">FOX TV (Bulgaria)</channel>
+  <channel update="i" site="vivacom.bg" site_id="1##Diema" xmltv_id="DiemaTV Bulgaria">DiemaTV Bulgaria</channel>
   <channel update="i" site="teleguide.info" site_id="2230" xmltv_id="FilmBox">FilmBox</channel>
   <channel update="i" site="programtv.interia.pl" site_id="stacja-filmbox-action,page,pl-name,cid,32750767" xmltv_id="FilmBox Action">FilmBox Action</channel>
   <channel update="i" site="vsetv.com" site_id="997" xmltv_id="FilmBox Arthouse">FilmBox Arthouse</channel>
