@@ -86,8 +86,8 @@
   <channel update="i" site="tviz.tv" site_id="kinomiks" xmltv_id="Киномикс">Киномикс</channel>
   <channel update="i" site="tviz.tv" site_id="zvezda" xmltv_id="Звезда">Звезда</channel>
   <channel update="i" site="tviz.tv" site_id="2x2" xmltv_id="2x2">2x2</channel>
-  <channel update="i" site="vsetv.com" site_id="809" xmltv_id="2х2 (+2)">2х2 (+2)</channel>
-  <channel update="i" site="vsetv.com" site_id="734" xmltv_id="2х2 (+5)">2х2 (+5)</channel>
+  <channel offset="2" same_as="2x2" xmltv_id="2х2 (+2)">2х2 (+2)</channel>
+  <channel offset="4" same_as="2x2" xmltv_id="2х2 (+4)">2х2 (+4)</channel>
   <channel update="i" site="tviz.tv" site_id="discovery-channel" xmltv_id="Discovery Channel">Discovery Channel</channel>
   <channel update="i" site="tviz.tv" site_id="rossiya-24" xmltv_id="Россия 24">Россия 24</channel>
   <channel update="i" site="tviz.tv" site_id="mir-hd" xmltv_id="Мир HD">Мир HD</channel>
