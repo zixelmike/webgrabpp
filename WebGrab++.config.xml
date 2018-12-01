@@ -119,7 +119,7 @@
   <channel update="i" site="tviz.tv" site_id="mir" xmltv_id="МИР">МИР</channel>
   <channel update="i" site="tviz.tv" site_id="stv-73" xmltv_id="STV">STV</channel>
   <channel update="i" site="tviz.tv" site_id="tlc" xmltv_id="TLC">TLC</channel>
-  <channel update="i" site="tviz.tv" site_id="russkij-illyuzion" xmltv_id="Русский Иллюзион">Русский Иллюзион</channel>
+  <channel update="i" site="tviz.tv" site_id="russkij-illyuzion" xmltv_id="Русский иллюзион">Русский иллюзион</channel>
   <channel update="i" site="tviz.tv" site_id="cartoon-network" xmltv_id="Cartoon Network">Cartoon Network</channel>
   <channel update="i" site="tviz.tv" site_id="eurosport-2" xmltv_id="Eurosport 2">Eurosport 2</channel>
   <channel update="i" site="tviz.tv" site_id="indiya-tv" xmltv_id="Индийское кино">Индийское кино</channel>
