@@ -456,6 +456,7 @@
   <channel update="i" site="teleguide.info" site_id="2237" xmltv_id="Spike">Spike</channel>
   <channel update="i" site="teleguide.info" site_id="2237" xmltv_id="Spike HD">Spike HD</channel>
   <channel update="i" site="programtv.interia.pl" site_id="stacja-stopklatka-tv,page,pl-name,cid,46892480" xmltv_id="Stopklatka TV">Stopklatka TV</channel>
+  <channel update="i" site="programme-television.org" site_id="479" xmltv_id="Sy Fy HD">Sy Fy HD</channel>
   <channel update="i" site="vsetv.com" site_id="329" xmltv_id="НСТ">НСТ</channel>
   <channel update="i" site="teleguide.info" site_id="2214" xmltv_id="НТВ Право">НТВ Право</channel>
   <channel update="i" site="tviz.tv" site_id="ntvserial" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
