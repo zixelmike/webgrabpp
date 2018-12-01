@@ -459,7 +459,7 @@
   <channel update="i" site="vsetv.com" site_id="329" xmltv_id="НСТ">НСТ</channel>
   <channel update="i" site="teleguide.info" site_id="2214" xmltv_id="НТВ Право">НТВ Право</channel>
   <channel update="i" site="tviz.tv" site_id="ntvserial" xmltv_id="НТВ Сериал">НТВ Сериал</channel>
-  <channel update="i" site="tviz.tv" site_id="nashdetektivl" xmltv_id="Наш детектив HD">Наш детектив HD</channel>
+  <channel update="i" site="tviz.tv" site_id="nashdetektiv" xmltv_id="Наш детектив HD">Наш детектив HD</channel>
   <channel update="i" site="tviz.tv" site_id="nashkinoroman" xmltv_id="Наш кинороман HD">Наш кинороман HD</channel>
   <channel update="i" site="tviz.tv" site_id="nashelybimoe" xmltv_id="Наше любимое кино">Наше любимое кино</channel>
   <channel update="i" site="vsetv.com" site_id="1303" xmltv_id="Супер (+2)">Супер (+2)</channel>
