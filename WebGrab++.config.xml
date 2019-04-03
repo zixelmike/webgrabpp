@@ -259,8 +259,10 @@
   <channel update="i" site="tviz.tv" site_id="hd-media" xmltv_id="HD Медиа">HD Медиа</channel>
   <channel update="i" site="tviz.tv" site_id="pervyj-meteo" xmltv_id="Первый метео">Первый метео</channel>
   <channel update="i" site="teleguide.info" site_id="2136" xmltv_id="Game Show">Game Show</channel>
-  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-1" xmltv_id="Кинопоказ HD-1">Кинопоказ HD-1</channel>
-  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-2" xmltv_id="Кинопоказ HD-2">Кинопоказ HD-2</channel>
+  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-1" xmltv_id="Кинопоказ 1 HD">Кинопоказ 1 HD</channel>
+  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-2" xmltv_id="Кинопоказ 2 HD">Кинопоказ 2 HD</channel>
+  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-1" xmltv_id="Шокирующее">Шокирующее</channel>
+  <channel update="i" site="tviz.tv" site_id="kinopokaz-hd-2" xmltv_id="Комедийное">Комедийное</channel>
   <channel update="i" site="tviz.tv" site_id="luxetv" xmltv_id="Luxe.TV">Luxe.TV</channel>
   <channel update="i" site="tviz.tv" site_id="man-tv" xmltv_id="Man TV">Man TV</channel>
   <channel update="i" site="tviz.tv" site_id="mcm-pop" xmltv_id="MCM POP">MCM POP</channel>
