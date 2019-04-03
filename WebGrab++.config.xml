@@ -379,6 +379,7 @@
   <channel update="i" site="tviz.tv" site_id="otr" xmltv_id="Общественное телевидение России">Общественное телевидение России</channel>
   <channel update="i" site="tviz.tv" site_id="pyatnica" xmltv_id="Пятница">Пятница</channel>
   <channel update="i" site="tviz.tv" site_id="mgm-hd" xmltv_id="MGM HD">MGM HD</channel>
+  <channel update="i" site="tviz.tv" site_id="mgm-hd" xmltv_id="">MGM</channel>
   <channel update="i" site="tviz.tv" site_id="nick-jr" xmltv_id="Nick Jr">Nick Jr</channel>
   <channel update="i" site="tviz.tv" site_id="konnyj-mir" xmltv_id="Конный мир">Конный мир</channel>
   <channel update="i" site="tviz.tv" site_id="outdoor-hd" xmltv_id="Outdoor HD">Outdoor HD</channel>
